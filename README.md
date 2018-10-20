@@ -1,7 +1,7 @@
 # Shenzhen
 **CLI for Building & Distributing iOS Apps (.ipa Files)**
 
-Create `.ipa` files and then distribute them with [TestFlight](https://testflightapp.com/), all from the command line!
+Create `.ipa` files and then distribute them with [TestFlight](https://developer.apple.com/testflight/), all from the command line!
 
 Less cumbersome than clicking around in Xcode, and less hassle than rolling your own build script--Shenzhen radically improves the process of getting new builds out to testers and enterprises.
 
